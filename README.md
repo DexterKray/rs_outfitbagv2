@@ -38,4 +38,4 @@ More updates coming soon!
 ## — LINKS —
 
 [FORUM](soon) 
-[YOUTUBE](https://youtu.be/YOUR-VIDEO-LINK)
+[YOUTUBE](https://youtu.be/p8-E_5032Cs)
