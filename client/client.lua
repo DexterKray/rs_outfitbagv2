@@ -151,7 +151,7 @@ AddEventHandler('rs_outfitbag:open', function()
             },
             {
                 title = Language.outfits,
-                description = Language.savenowoutfit,
+                description = Language.showsavedoutfits,
                 icon = 'shirt',
                 onSelect = function()
                     TriggerEvent('rs_outfitbag:showOutfitList')
